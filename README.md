@@ -9,7 +9,7 @@ Intrucciones para ejecutar TaskManager
   
     npm install
   
-    npm run server
+    npm run dev
   
 3. Crear la base de datos que se utilizara
 
